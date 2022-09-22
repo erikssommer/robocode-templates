@@ -35,7 +35,7 @@ ext.metadata = {
             - Could not find a Robot with valid package and class definition.
             - There should be a class extending Robot or AdvancedRobot with a valid package declaration.
 
-            package example;
+            package supaHotFire;
 
             import robocode.Robot;
 
