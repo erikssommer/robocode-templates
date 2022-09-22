@@ -6,7 +6,7 @@
 1. Installer [IntelliJ](https://www.jetbrains.com/idea/download/).
 1. Last ned og pakk ut [prosjektmalen](https://github.com/netcompanyno/robocode-templates/archive/master.zip).
 1. Åpne enten `robocode-java` eller `robocode-kotlin` i IntelliJ.
-1. Endre pakkenavnet i `ExampleRobot` fra `example` til ditt lagnavn. Tips: Shift-F6.
+1. Endre pakkenavnet i `ExampleRobot` fra `supaHotFire` til ditt lagnavn. Tips: Shift-F6.
 1. Endre klassenavnet fra `ExampleRobot` til noe gøyalt, mystisk, eller fryktingytende. Tips: Shift-F6.
 
 ## Sett opp prosjektet i VS Code (Alternativt)
@@ -15,7 +15,7 @@
 1. Installer [VS Code](https://code.visualstudio.com/download) og utvidelsen `Language Support for Java(TM) by Red Hat`.
 1. Last ned og pakk ut [prosjektmalen](https://github.com/netcompanyno/robocode-templates/archive/master.zip).
 1. Åpne enten `robocode-java` eller `robocode-kotlin` i VS Code.
-1. Endre pakkenavnet i `ExampleRobot` fra `example` til ditt lagnavn. Navnet på mappen må endres til det samme.
+1. Endre pakkenavnet i `ExampleRobot` fra `supaHotFire` til ditt lagnavn. Navnet på mappen må endres til det samme.
 1. Endre klassenavnet fra `ExampleRobot` til noe gøyalt, mystisk, eller fryktingytende. Tips: F2.
 
 ## Bygg roboten

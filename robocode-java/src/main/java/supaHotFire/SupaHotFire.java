@@ -1,8 +1,8 @@
-package example;
+package supaHotFire;
 
 import robocode.Robot;
 
-public class ExampleRobot extends Robot {
+public class SupaHotFire extends Robot {
     @Override
     public void run() {
         // TODO
